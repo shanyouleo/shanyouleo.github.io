@@ -1,16 +1,16 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
+title: You SHAN
+name: You SHAN
 subtitle:  Economist
-email: paul.e.soto@frb.gov
+email: shanyouleo@gmail.com
 description: >
    Economist
 baseurl: ""
-url: "https://pesoto.github.io/"
-github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+url: "https://shanyouleo.github.io/"
+github_username:  shanyouleo
+disqus_baseurl: "https://shanyouleo.github.io/"
+disqus_shortname: https-shanyouleo-github-io
 permalink: :title
 google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
@@ -25,7 +25,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "You SHAN"
 
 
 
@@ -50,4 +50,4 @@ social:
     username: Paul E. Soto
     url: https://www.linkedin.com/in/paul-e-soto-2705ab218
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
