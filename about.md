@@ -3,8 +3,6 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-If you’re interested in hearing more about my research, in collaborating with me, or in hiring me as a speaker or consultant, please get in touch. 
-
-I welcome your comments and questions about my work.
+To learn more about my research, please download my <a href="https://cloud.tsinghua.edu.cn/f/9699c74323bc409eb923/" download="You SHAN_CV">CV</a> or contact me directly.
 <br>
 
