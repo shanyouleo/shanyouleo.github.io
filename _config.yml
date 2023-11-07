@@ -25,7 +25,9 @@ defaults:
     scope:
       path: ""
     values:
-      author: "You SHAN"
+      author: "You Shan"
+
+
 
 # External gems
 gems:
@@ -49,6 +51,3 @@ social:
     url: https://www.linkedin.com/in/paul-e-soto-2705ab218
     desc: Connect with me on LinkedIn
     share: true
-
-
-
