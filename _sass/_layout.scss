@@ -156,7 +156,7 @@ pre code.hljs {
     padding: 1em 0;
     @include media ($tablet) {
       float: right;
-      line-height: 1em;
+      line-height: 0em;
     }
   }
   ul.navigation-menu {
